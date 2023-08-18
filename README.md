@@ -1,2 +1,2 @@
 # Cryptocurrency_transactions_simulation
-Simulating cryptocurrency wallet for bitcoin, ethereum, dash and litecoin and ERC20 tokens in Python
+This is for demonstration purposes only, of some of the practices used. The refined project is running in a private repository
